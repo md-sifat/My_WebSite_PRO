@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-weight: 800;
+}
+
+.borderMY {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    box-shadow: 6px 6px 5px -5px rgb(5, 74, 95);
+    background-color: rgb(255, 255, 255);
+}
+
+.borderMY3 {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.borderMY2 {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    box-shadow: -6px -6px 5px -5px rgb(5, 74, 95);
+    background-color: rgb(255, 255, 255);
+}
+
+.Mycontainer {
+    width: 50%;
+}
